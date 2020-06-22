@@ -227,3 +227,12 @@ Menu Administrar Grupos => 2020-06-22 15:03
 Crear Grupos => 2020-06-22 15:03 
 El administrador marcos   :0           2020-06-22 12:59 (:0) creo al grupo grupoAdicional,  el 22/06/2020 a las 15:03
 Listar Grupos => 2020-06-22 15:03 
+Alta de Usuario => 2020-06-22 16:35 
+El administrador marcos   :0           2020-06-22 16:20 (:0) creo  usuario SistemasOperativos en el sistema,  el 22/06/2020 a las 16:35
+Alta de Usuario => 2020-06-22 18:43 
+El administrador marcos   :0           2020-06-22 18:38 (:0) creo  usuario Carlos en el sistema,  el 22/06/2020 a las 18:43
+Baja de Usuario => 2020-06-22 18:45 
+El administrador marcos   :0           2020-06-22 18:38 (:0) borro al usuario Carlos ,  el 22/06/2020 a las 18:45
+Alta de Usuario => 2020-06-22 20:06 
+Baja de Usuario => 2020-06-22 20:06 
+Menu modificiacion de Usuario => 2020-06-22 20:06 

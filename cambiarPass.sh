@@ -28,7 +28,5 @@ fi
 
 read -p "Press enter para volver al menu" 
 
-    
-    
-    ./menu.sh
+./menu.sh
 #FIN BASH

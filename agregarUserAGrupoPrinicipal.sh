@@ -14,7 +14,7 @@ HORA=`date +"%H:%M"`
 clear
 echo  "------AGREGAR USER A un GRUPO PRINCIPAL------------------------------"
 echo -e  ""
-echo -e "Ingrese el nombre del usuario al cual quiere asiganrle un Grupo Prinicipal"
+echo -e "Ingrese el nombre del usuario al cual quiere asignarle un Grupo Prinicipal"
 
 read user   
 

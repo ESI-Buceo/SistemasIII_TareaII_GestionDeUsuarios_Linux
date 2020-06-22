@@ -29,7 +29,7 @@ if grep -qiw $user /etc/passwd; then
 echo "El usuario existe"
 usermod  -aG $grupo $user
 echo -e "Se agrego $user al  grupo $grupo  SECUNDARIO correctamente"
-echo "El administrador $admin agrego  a $user al Grupo Primario $grupo,  el $DIA a las $HORA">> historial.txt
+echo "El administrador $admin agrego  a $user al Grupo secundario $grupo,  el $DIA a las $HORA">> historial.txt
 
 fi
 fi
