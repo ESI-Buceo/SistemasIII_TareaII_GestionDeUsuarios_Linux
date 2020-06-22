@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 #
+#
 # Gestion de Usuarios - 
 #
-# Tarea 2 Sistemas Operativos III  ESI-Buceo -  Profesor Daniel García
+# Primer Entrega - Proyecto Sistemas Operativos III  ESI-Buceo -  Profesor Daniel García
 # Autor: Andrea Bazzini, Marcos Bueno, Ruben Gainza y Mathías Torterolo.
 
 ## ------------------------------- VARIABLES -------------------------------- #

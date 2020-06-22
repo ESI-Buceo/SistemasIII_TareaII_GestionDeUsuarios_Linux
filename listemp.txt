@@ -4,3 +4,5 @@ prueba:x:1002:1026::/home/prueba:/bin/sh
 ruben:x:1003:1028::/home/ruben:/bin/bash
 catalina:x:1004:1028::/home/catalina:/bin/bash
 matias:x:1005:1028::/home/matias:/bin/bash
+maricambio:x:1006:1028::/home/mari:/bin/bash
+lucas:x:1007:1028::/home/lucas:/bin/bash

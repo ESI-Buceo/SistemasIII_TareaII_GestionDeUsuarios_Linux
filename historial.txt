@@ -219,3 +219,11 @@ Alta de Usuario => 2020-06-22 01:02
 El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario mari en el sistema,  el 22/06/2020 a las 01:02
 Alta de Usuario => 2020-06-22 01:03 
 El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario lucas en el sistema,  el 22/06/2020 a las 01:03
+Listar Usuarios => 2020-06-22 13:21 
+Baja de Usuario => 2020-06-22 14:30 
+Listar Usuarios => 2020-06-22 15:02 
+Listar Grupos => 2020-06-22 15:03 
+Menu Administrar Grupos => 2020-06-22 15:03 
+Crear Grupos => 2020-06-22 15:03 
+El administrador marcos   :0           2020-06-22 12:59 (:0) creo al grupo grupoAdicional,  el 22/06/2020 a las 15:03
+Listar Grupos => 2020-06-22 15:03 

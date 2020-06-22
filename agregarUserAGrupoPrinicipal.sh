@@ -2,7 +2,7 @@
 #
 # Gestion de Usuarios - 
 #
-# Tarea 2 Sistemas Operativos III  ESI-Buceo -  Profesor Daniel García
+# Primer Entrega - Proyecto Sistemas Operativos III  ESI-Buceo -  Profesor Daniel García
 # Autor: Andrea Bazzini, Marcos Bueno, Ruben Gainza y Mathías Torterolo.
 
 #VARIABLES 
@@ -12,7 +12,7 @@ HORA=`date +"%H:%M"`
 #EJECUCION
 
 clear
-echo  "----------------------AGREGAR USER A un GRUPO PRINCIPAL------------------------------"
+echo  "------AGREGAR USER A un GRUPO PRINCIPAL------------------------------"
 echo -e  ""
 echo -e "Ingrese el nombre del usuario al cual quiere asiganrle un Grupo Prinicipal"
 
