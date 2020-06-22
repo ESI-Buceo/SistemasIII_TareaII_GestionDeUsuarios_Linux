@@ -1,0 +1,221 @@
+
+Ingreso al sistema listarUsuarios => 2020-04-28 11:28 
+
+Ingreso al sistema crear usuario => 2020-06-21 21:28 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Jose en el sistema,  el 21/06/2020 a las 21:28
+Ingreso al sistema borrar usuario => 2020-06-21 21:28 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Jose (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 21:28
+Ingreso al sistema crear usuario => 2020-06-21 21:40 
+Ingreso al sistema crear usuario => 2020-06-21 21:42 
+Ingreso al sistema crear usuario => 2020-06-21 21:52 
+Ingreso al sistema crear usuario => 2020-06-21 21:53 
+Ingreso al sistema crear usuario => 2020-06-21 21:54 
+Ingreso al sistema crear usuario => 2020-06-21 21:54 
+Ingreso al sistema crear usuario => 2020-06-21 21:57 
+Ingreso al sistema crear usuario => 2020-06-21 21:58 
+Ingreso al sistema crear usuario => 2020-06-21 21:59 
+Ingreso al sistema crear usuario => 2020-06-21 22:00 
+Ingreso al sistema crear usuario => 2020-06-21 22:01 
+Ingreso al sistema crear usuario => 2020-06-21 22:02 
+Ingreso al sistema crear usuario => 2020-06-21 22:02 
+Ingreso al sistema crear usuario => 2020-06-21 22:05 
+Ingreso al sistema crear usuario => 2020-06-21 22:05 
+Ingreso al sistema crear usuario => 2020-06-21 22:07 
+Ingreso al sistema crear usuario => 2020-06-21 22:08 
+Ingreso al sistema crear usuario => 2020-06-21 22:08 
+Ingreso al sistema crear usuario => 2020-06-21 22:08 
+Ingreso al sistema crear usuario => 2020-06-21 22:09 
+Ingreso al sistema crear usuario => 2020-06-21 22:10 
+Ingreso al sistema crear usuario => 2020-06-21 22:13 
+Ingreso al sistema crear usuario => 2020-06-21 22:13 
+Ingreso al sistema crear usuario => 2020-06-21 22:14 
+Ingreso al sistema crear usuario => 2020-06-21 22:14 
+Ingreso al sistema crear usuario => 2020-06-21 22:15 
+Ingreso al sistema crear usuario => 2020-06-21 22:15 
+Ingreso al sistema crear usuario => 2020-06-21 22:16 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario erverbtr en el sistema,  el 21/06/2020 a las 22:16
+Ingreso al sistema borrar usuario => 2020-06-21 22:16 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario erverbtr (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:16
+Ingreso al sistema crear usuario => 2020-06-21 22:16 
+Ingreso al sistema crear usuario => 2020-06-21 22:17 
+Ingreso al sistema crear usuario => 2020-06-21 22:17 
+Ingreso al sistema crear usuario => 2020-06-21 22:18 
+Ingreso al sistema crear usuario => 2020-06-21 22:18 
+Ingreso al sistema crear usuario => 2020-06-21 22:19 
+Ingreso al sistema crear usuario => 2020-06-21 22:19 
+Ingreso al sistema crear usuario => 2020-06-21 22:21 
+Ingreso al sistema crear usuario => 2020-06-21 22:21 
+Ingreso al sistema crear usuario => 2020-06-21 22:22 
+Ingreso al sistema crear usuario => 2020-06-21 22:24 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario  en el sistema,  el 21/06/2020 a las 22:24
+Ingreso al sistema crear usuario => 2020-06-21 22:27 
+Ingreso al sistema crear usuario => 2020-06-21 22:27 
+Ingreso al sistema crear usuario => 2020-06-21 22:30 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Borrar40 en el sistema,  el 21/06/2020 a las 22:30
+Ingreso al sistema listarUsuarios => 2020-06-21 22:30 
+Ingreso al sistema ver grupos => 2020-06-21 22:30 
+Ingreso al sistema borrar grupo => 2020-06-21 22:30 
+El administrador  borro al grupo Grupo,  el 21/06/2020 a las 22:30
+Ingreso al sistema borrar usuario => 2020-06-21 22:31 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Borrar40 (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:31
+Ingreso al sistema crear usuario => 2020-06-21 22:31 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Test1 en el sistema,  el 21/06/2020 a las 22:31
+Ingreso al sistema ver grupos => 2020-06-21 22:31 
+Ingreso al sistema borrar usuario => 2020-06-21 22:31 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Test1 (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:31
+Ingreso al sistema crear usuario => 2020-06-21 22:32 
+Ingreso al sistema crear usuario => 2020-06-21 22:32 
+Ingreso al sistema crear usuario => 2020-06-21 22:32 
+Ingreso al sistema crear usuario => 2020-06-21 22:33 
+Ingreso al sistema crear usuario => 2020-06-21 22:33 
+Ingreso al sistema crear usuario => 2020-06-21 22:33 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Test5 en el sistema,  el 21/06/2020 a las 22:33
+Ingreso al sistema borrar usuario => 2020-06-21 22:34 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Test5 (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:34
+Ingreso al sistema listarUsuarios => 2020-06-21 22:36 
+Ingreso al sistema borrar usuario => 2020-06-21 22:36 
+Ingreso al sistema borrar usuario => 2020-06-21 22:37 
+Ingreso al sistema borrar usuario => 2020-06-21 22:38 
+Ingreso al sistema listarUsuarios => 2020-06-21 22:38 
+Ingreso al sistema borrar usuario => 2020-06-21 22:38 
+Ingreso al sistema listarUsuarios => 2020-06-21 22:39 
+Ingreso al sistema borrar usuario => 2020-06-21 22:39 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario borrrador (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:39
+Ingreso al sistema crear usuario => 2020-06-21 22:39 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario pepito en el sistema,  el 21/06/2020 a las 22:39
+Ingreso al sistema borrar usuario => 2020-06-21 22:39 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario pepito (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:39
+Ingreso al sistema listarUsuarios => 2020-06-21 22:41 
+Ingreso al sistema borrar usuario => 2020-06-21 22:42 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario peppepepepe (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:42
+Ingreso al sistema crear usuario => 2020-06-21 22:42 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario nuevo en el sistema,  el 21/06/2020 a las 22:42
+Ingreso al sistema borrar usuario => 2020-06-21 22:42 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario nuevo (se borro carepta y desacosio a grupos)  ,  el 21/06/2020 a las 22:42
+Ingreso al sistema listarUsuarios => 2020-06-21 22:46 
+Ingreso al sistema crear usuario => 2020-06-21 22:46 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Andrea en el sistema,  el 21/06/2020 a las 22:46
+Ingreso al sistema borrar usuario => 2020-06-21 22:46 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Andrea ,  el 21/06/2020 a las 22:46
+Ingreso al sistema listarUsuarios => 2020-06-21 22:59 
+Ingreso al sistema crear usuario => 2020-06-21 22:59 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario ruben en el sistema,  el 21/06/2020 a las 22:59
+Ingreso al sistema crear grupo principal => 2020-06-21 23:00 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:01 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:02 
+Ingreso al sistema crear usuario => 2020-06-21 23:03 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario catalina en el sistema,  el 21/06/2020 a las 23:03
+Ingreso al sistema crear grupo principal => 2020-06-21 23:04 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:10 
+Ingreso al sistema crear usuario => 2020-06-21 23:10 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:17 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:19 
+Ingreso al sistema ver grupos => 2020-06-21 23:19 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:20 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:22 
+Ingreso al sistema crear grupo principal => 2020-06-21 23:27 
+Menu modificiacion de Usuario => 2020-06-21 23:44 
+Menu modificiacion de Usuario => 2020-06-21 23:53 
+Menu modificiacion de Usuario => 2020-06-21 23:55 
+Volver al menu principal => 2020-06-21 23:55 
+Menu Administrar Grupos => 2020-06-21 23:55 
+Menu Administrar Grupos => 2020-06-21 23:56 
+Volver al menu principal => 2020-06-21 23:56 
+Menu modificiacion de Usuario => 2020-06-21 23:56 
+Volver al menu principal => 2020-06-21 23:56 
+Menu Administrar Grupos => 2020-06-21 23:56 
+Volver al menu principal => 2020-06-21 23:56 
+Listar Grupos => 2020-06-21 23:56 
+Listar Usuarios => 2020-06-21 23:56 
+Menu Administrar Grupos => 2020-06-21 23:57 
+Crear Grupos => 2020-06-21 23:57 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo al grupo junio2020,  el 21/06/2020 a las 23:57
+Listar Grupos => 2020-06-21 23:57 
+Listar Grupos => 2020-06-22 00:04 
+Listar Usuarios => 2020-06-22 00:05 
+Menu modificiacion de Usuario => 2020-06-22 00:08 
+Ver Usuario => 2020-06-22 00:08 
+Menu modificiacion de Usuario => 2020-06-22 00:08 
+Ver Usuario => 2020-06-22 00:08 
+Menu modificiacion de Usuario => 2020-06-22 00:08 
+Ver Usuario => 2020-06-22 00:08 
+Alta de Usuario => 2020-06-22 00:09 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario matias en el sistema,  el 22/06/2020 a las 00:09
+Listar Usuarios => 2020-06-22 00:09 
+Menu modificiacion de Usuario => 2020-06-22 00:09 
+Ver Usuario => 2020-06-22 00:09 
+Baja de Usuario => 2020-06-22 00:09 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario matias ,  el 22/06/2020 a las 00:09
+Listar Usuarios => 2020-06-22 00:13 
+Listar Grupos => 2020-06-22 00:13 
+Alta de Usuario => 2020-06-22 00:13 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario matias en el sistema,  el 22/06/2020 a las 00:13
+Listar Grupos => 2020-06-22 00:13 
+Menu Administrar Grupos => 2020-06-22 00:24 
+Ver Grupos => 2020-06-22 00:24 
+Menu modificiacion de Usuario => 2020-06-22 00:25 
+Volver al menu principal => 2020-06-22 00:25 
+Menu Administrar Grupos => 2020-06-22 00:25 
+Borrar Grupos => 2020-06-22 00:25 
+Menu Administrar Grupos => 2020-06-22 00:25 
+Borrar Grupos => 2020-06-22 00:25 
+El administrador  borro al grupo UTU,  el 22/06/2020 a las 00:25
+Listar Grupos => 2020-06-22 00:26 
+Alta de Usuario => 2020-06-22 00:47 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Andrea en el sistema,  el 22/06/2020 a las 00:47
+Baja de Usuario => 2020-06-22 00:47 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Andrea ,  el 22/06/2020 a las 00:47
+Menu modificiacion de Usuario => 2020-06-22 00:48 
+Cambiar nombre => 2020-06-22 00:48 
+El administrador marcos   :0           2020-06-21 20:29 (:0) modifico el nombre de matias para matias modificado,  el 22/06/2020 a las 00:48
+Menu modificiacion de Usuario => 2020-06-22 00:48 
+Cambiar nombre => 2020-06-22 00:48 
+El administrador marcos   :0           2020-06-21 20:29 (:0) modifico el nombre de matias para roberto,  el 22/06/2020 a las 00:48
+Menu modificiacion de Usuario => 2020-06-22 00:48 
+Cambiar contraseña => 2020-06-22 00:49 
+El administrador marcos   :0           2020-06-21 20:29 (:0) cambio la contraseña  del usuario roberto,  el 22/06/2020 a las 00:49
+Alta de Usuario => 2020-06-22 00:52 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Andrea en el sistema,  el 22/06/2020 a las 00:52
+Baja de Usuario => 2020-06-22 00:53 
+El administrador marcos   :0           2020-06-21 20:29 (:0) borro al usuario Andrea ,  el 22/06/2020 a las 00:53
+Menu modificiacion de Usuario => 2020-06-22 00:53 
+Cambiar nombre => 2020-06-22 00:53 
+El administrador marcos   :0           2020-06-21 20:29 (:0) modifico el nombre de roberto para matias,  el 22/06/2020 a las 00:53
+Menu modificiacion de Usuario => 2020-06-22 00:53 
+Cambiar contraseña => 2020-06-22 00:53 
+El administrador marcos   :0           2020-06-21 20:29 (:0) cambio la contraseña  del usuario matias,  el 22/06/2020 a las 00:53
+Menu modificiacion de Usuario => 2020-06-22 00:53 
+Agregar a un grupo principal => 2020-06-22 00:53 
+Menu modificiacion de Usuario => 2020-06-22 00:54 
+Agregar a un grupo secundario => 2020-06-22 00:54 
+Menu Administrar Grupos => 2020-06-22 00:54 
+Volver al menu principal => 2020-06-22 00:54 
+Menu modificiacion de Usuario => 2020-06-22 00:54 
+Agregar a un grupo secundario => 2020-06-22 00:55 
+Menu modificiacion de Usuario => 2020-06-22 00:55 
+Agregar a un grupo principal => 2020-06-22 00:55 
+Menu Administrar Grupos => 2020-06-22 00:55 
+Crear Grupos => 2020-06-22 00:55 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo al grupo GrupoPrueba,  el 22/06/2020 a las 00:55
+Listar Grupos => 2020-06-22 00:55 
+Menu Administrar Grupos => 2020-06-22 00:56 
+Borrar Grupos => 2020-06-22 00:56 
+Listar Grupos => 2020-06-22 00:56 
+Menu Administrar Grupos => 2020-06-22 00:56 
+Borrar Grupos => 2020-06-22 00:56 
+El administrador  borro al grupo GrupoPrueba,  el 22/06/2020 a las 00:56
+Listar Grupos => 2020-06-22 00:56 
+Menu Administrar Grupos => 2020-06-22 00:56 
+Ver Grupos => 2020-06-22 00:56 
+Listar Usuarios => 2020-06-22 00:56 
+Menu Administrar Grupos => 2020-06-22 00:56 
+Volver al menu principal => 2020-06-22 00:56 
+Menu modificiacion de Usuario => 2020-06-22 00:57 
+Volver al menu principal => 2020-06-22 00:57 
+Menu Administrar Grupos => 2020-06-22 00:57 
+Alta de Usuario => 2020-06-22 01:02 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario Mariela en el sistema,  el 22/06/2020 a las 01:02
+Alta de Usuario => 2020-06-22 01:02 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario mari en el sistema,  el 22/06/2020 a las 01:02
+Alta de Usuario => 2020-06-22 01:03 
+El administrador marcos   :0           2020-06-21 20:29 (:0) creo  usuario lucas en el sistema,  el 22/06/2020 a las 01:03

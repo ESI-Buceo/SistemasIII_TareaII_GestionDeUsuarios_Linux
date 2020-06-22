@@ -1,0 +1,6 @@
+marcos:x:1000:1028:marcos,,,:/home/marcos:/bin/bash
+postgres:x:1001:1001:PostgreSQL:/opt/PostgreSQL/9.5:/bin/sh
+prueba:x:1002:1026::/home/prueba:/bin/sh
+ruben:x:1003:1028::/home/ruben:/bin/bash
+catalina:x:1004:1028::/home/catalina:/bin/bash
+matias:x:1005:1028::/home/matias:/bin/bash
